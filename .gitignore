@@ -39,3 +39,8 @@ luac.out
 *.x86_64
 *.hex
 
+/.idea/.gitignore
+/.idea/lua-scripts.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
